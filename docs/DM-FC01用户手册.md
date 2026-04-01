@@ -309,11 +309,19 @@ DM-FC01 提供 8 路 PWM/DShot 输出。
 
 ### PX4 固件
 
-**编译命令：**
+**命令行编译：**
 ```bash
 cd PX4-Autopilot
 make damiao_dm-fc01_default
 ```
+
+**VS Code CMake Tools 编译：**
+1. 在 VS Code 中打开 `PX4-Autopilot`，或单独拉取的 `PX4-Autopilot-1.15.0` 等源码目录
+2. 打开左侧 **CMake** 视图，在“配置”中选择 `damiao_dm-fc01`
+3. 在“生成”中选择 `all` 并执行构建
+4. 该方式生成的固件与执行 `make damiao_dm-fc01_default` 等效，无需手动输入 `make` 命令
+
+![VS Code CMake Tools 编译示意](images/px4-vscode-cmake-build.png)
 
 **烧录固件：**
 1. 通过 USB 连接飞控
