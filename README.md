@@ -24,6 +24,9 @@ git clone --branch damiao_dm-fc01_v1.14.0 --recursive https://github.com/CaFeZn/
 
 参考分支 / Reference branch:
 
+- `damiao_dm-fc01`
+- `damiao_dm-fc01` 目前跟随最新 PX4 主线开发，用于在完整测试完成后向 PX4 官方提交 PR。出厂固件默认使用该分支。  
+  `damiao_dm-fc01` tracks the latest PX4 upstream mainline and is intended for an eventual PR to the official PX4 repository after full validation. Factory firmware ships with this branch by default.
 - `damiao_dm-fc01_v1.14.0`
 - https://github.com/CaFeZn/PX4-Autopilot/tree/damiao_dm-fc01_v1.14.0
 
