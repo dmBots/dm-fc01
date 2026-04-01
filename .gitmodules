@@ -1,3 +1,8 @@
 [submodule "PX4-Autopilot"]
-    path = PX4-Autopilot
-    url = https://github.com/CaFeZn/PX4-Autopilot.git
+	path = PX4-Autopilot
+	url = https://github.com/CaFeZn/PX4-Autopilot.git
+	branch = damiao_dm-fc01
+[submodule "ardupilot"]
+	path = ardupilot
+	url = https://github.com/CaFeZn/ardupilot.git
+	branch = damiao_dm-fc01
