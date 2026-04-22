@@ -1,7 +1,7 @@
 # DM-FC01
 
-DM-FC01 是达妙第一个飞控项目，当前硬件版本为测试版，后续硬件设计和相关文档都可能调整。  
-DM-FC01 is the first flight controller project. The current hardware revision is a beta/test version, and both the hardware design and documentation may change in future revisions.
+DM-FC01 是达妙第一款正式量产的飞控产品。本文档对应当前出货的硬件版本，适用于用户首次拿到产品后的接线、配置与使用。  
+DM-FC01 is Damiao's first mass-produced flight controller product. This documentation applies to the current shipping hardware revision and is intended for initial wiring, setup, and use after receiving the product.
 
 ## 文档 / Documentation
 
