@@ -3,6 +3,8 @@
 DM-FC01 是达妙第一款正式量产的飞控产品。本文档对应当前出货的硬件版本，适用于用户首次拿到产品后的接线、配置与使用。  
 DM-FC01 is Damiao's first mass-produced flight controller product. This documentation applies to the current shipping hardware revision and is intended for initial wiring, setup, and use after receiving the product.
 
+![产品图](docs/images/接口说明书.png)
+
 ## 文档 / Documentation
 
 - 用户手册：[docs/DM-FC01用户手册.md](docs/DM-FC01用户手册.md)  
